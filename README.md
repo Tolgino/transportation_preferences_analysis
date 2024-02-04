@@ -7,6 +7,7 @@ This project entails an analysis of transportation preferences using data collec
 The analysis primarily utilizes two statistical techniques:
 
 T-Test: T-tests are conducted to compare the means of various variables across different clusters. Each t-test focuses on a specific variable of interest, comparing each cluster against a reference group or other clusters of interest. The t-tests yield p-values indicating the statistical significance of observed differences in variable means between clusters.
+
 Chi-Square Test: The chi-square test is employed to assess the association between categorical variables such as transportation options, environmental reasons, and demographic characteristics. This test evaluates whether there is a statistically significant relationship between variables and cluster memberships.
 
 # Results

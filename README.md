@@ -1,4 +1,4 @@
-# transportation_preferences_analysis
+# Transportation Preferences Analysis
 
 # Overview
 This project entails an analysis of transportation preferences using data collected via Google Forms and analyzed using SAS (Statistical Analysis System). The analysis aims to understand the factors influencing daily transportation choices among diverse demographic groups.
